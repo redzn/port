@@ -1,6 +1,8 @@
 # build output
 dist/
 
+dev.txt
+
 # generated types
 .astro/
 

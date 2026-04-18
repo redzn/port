@@ -1,0 +1,2 @@
+git config user.name "Micha macbook"
+git config user.email "ondergrondz@gmail.com"
